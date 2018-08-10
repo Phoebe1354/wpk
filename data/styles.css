@@ -60,6 +60,8 @@
 .radio_button {
   text-align:left;
 }
+.table_cell {
+}
 ._流程形状 {
 }
 ._连接线 {
@@ -94,4 +96,7 @@
 }
 .primary_button {
   color:#FFFFFF;
+}
+.link_button {
+  color:#169BD5;
 }
