@@ -669,16 +669,16 @@
   border-width:0px;
   position:absolute;
   left:-4px;
-  top:-160px;
+  top:-162px;
   width:8px;
-  height:160px;
+  height:162px;
 }
 #u44_seg1 {
   border-width:0px;
   position:absolute;
   left:-4px;
-  top:-160px;
-  width:345px;
+  top:-162px;
+  width:356px;
   height:8px;
 }
 #u44_seg2 {
@@ -692,16 +692,16 @@
 #u44_seg3 {
   border-width:0px;
   position:absolute;
-  left:328px;
-  top:-166px;
+  left:339px;
+  top:-168px;
   width:20px;
   height:20px;
 }
 #u45 {
   border-width:0px;
   position:absolute;
-  left:42px;
-  top:-164px;
+  left:47px;
+  top:-166px;
   width:100px;
   visibility:hidden;
   word-wrap:break-word;
